@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="Google_Maps_api_key">AIzaSyDcgWRYM3syNGef2NDUyCZ1_7qIT2C1sZ0</string>
+
+    <string name="app_name">SF Food Truck Finder</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_food_truck_detail">FoodTruckDetailActivity</string>
+</resources>
