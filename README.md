@@ -5,9 +5,14 @@ An Android application to find Food Trucks near you in San Fransisco. You can fi
 Data is provided by [data.sfgov.org](data.sfgov.org) . You can access this dataset via the [Socrata Open Data API](https://dev.socrata.com/).
 
 # Screenshots
-![Splash Screen](https://raw.github.com/ayushkedia123/sf-food-truck-finder/screenshots/splash.png)![Food Trucks in Map](https://raw.github.com/ayushkedia123/sf-food-truck-finder/screenshots/map_foodtrucks.png)
-
-![Food Trucks in List](https://raw.github.com/ayushkedia123/sf-food-truck-finder/screenshots/list_foodtrucks.png)![Food Truck Details](https://raw.github.com/ayushkedia123/sf-food-truck-finder/screenshots/foodtruckdetails.png)
+<p align="center">
+  <img src="https://raw.github.com/ayushkedia123/sf-food-truck-finder/master/screenshots/splash.png" width="300"/>
+  <img src="https://raw.github.com/ayushkedia123/sf-food-truck-finder/master/screenshots/map_foodtrucks.png" width="300"/>
+</p>
+<p align="center">
+  <img src="https://raw.github.com/ayushkedia123/sf-food-truck-finder/master/screenshots/list_foodtrucks.png" width="350"/>
+  <img src="https://raw.github.com/ayushkedia123/sf-food-truck-finder/master/screenshots/foodtruckdetails.png" width="350"/>
+</p>
 
 ## Technologies used:
 #### Build Tools:
