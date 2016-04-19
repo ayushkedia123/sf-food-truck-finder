@@ -6,8 +6,8 @@ Data is provided by [data.sfgov.org](data.sfgov.org) . You can access this datas
 
 # Screenshots
 <p align="center">
-  <img src="https://raw.github.com/ayushkedia123/sf-food-truck-finder/master/screenshots/splash.png" width="300"/>
-  <img src="https://raw.github.com/ayushkedia123/sf-food-truck-finder/master/screenshots/map_foodtrucks.png" width="300"/>
+  <img src="https://raw.github.com/ayushkedia123/sf-food-truck-finder/master/screenshots/splash.png" width="350"/>
+  <img src="https://raw.github.com/ayushkedia123/sf-food-truck-finder/master/screenshots/map_foodtrucks.png" width="350"/>
 </p>
 <p align="center">
   <img src="https://raw.github.com/ayushkedia123/sf-food-truck-finder/master/screenshots/list_foodtrucks.png" width="350"/>
