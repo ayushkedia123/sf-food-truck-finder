@@ -14,6 +14,11 @@ Data is provided by [data.sfgov.org](data.sfgov.org) . You can access this datas
   <img src="https://raw.github.com/ayushkedia123/sf-food-truck-finder/master/screenshots/foodtruckdetails.png" width="350"/>
 </p>
 
+## Sailent Features:
+- View the food trucks near you in the map.
+- View the list of food trucks sorted by distance nearest to you.
+- On clicking the marker you can view the details of each food truck like permit, distance, open hours, location, menu items and vendor name.
+
 ## Technologies used:
 #### Build Tools:
 |Name|Version|Description|
@@ -30,3 +35,10 @@ Data is provided by [data.sfgov.org](data.sfgov.org) . You can access this datas
 | [Android Google Play Services](https://developer.android.com/google/play-services/index.html) | 8.4.0 | Google Maps, Google Location |
 | [Retrofit](http://square.github.io/retrofit/) | 1.9.0 | Network library |
 | [OkHttp](http://square.github.io/okhttp//) | 2.7.2 | HTTP Client |
+
+## Future wishlist
+- Adding an option in the settings to select the Kilometre range upto which you want to see the food trucks.
+- Giving option to search the food truck based on the location name or vendor name.
+- Allowing an option to rate and reviews the food truck so that it helps other customers.
+- Add food trucks to the favorite list.
+- Sharing food truck details with your family and friends.
