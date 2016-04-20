@@ -42,3 +42,4 @@ Data is provided by [data.sfgov.org](data.sfgov.org) . You can access this datas
 - Allowing an option to rate and reviews the food truck so that it helps other customers.
 - Add food trucks to the favorite list.
 - Sharing food truck details with your family and friends.
+- Login option through Facebook and Google.
